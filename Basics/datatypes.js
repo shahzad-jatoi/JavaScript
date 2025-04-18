@@ -20,4 +20,5 @@
 console.log(typeof "Shahzad");
 console.log(typeof null); // it give us object as an output
 console.log(typeof undefined); // while undefined is the type itself
+// it might be a glitch
 
